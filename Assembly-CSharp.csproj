@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\EnemyTriggerEvent.cs" />
     <Compile Include="Assets\Scripts\Patrol.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\WallWalkingPatrol.cs" />
     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/cliccuser/Desktop/cs130_group_project_personal/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
